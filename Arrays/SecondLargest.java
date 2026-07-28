@@ -15,7 +15,7 @@ sl=larg;
 larg=arr[i];
 
 }
-else if(arr[i]>sl && arr[i]!=sl){
+else if(arr[i]>sl && arr[i]!=larg){
 sl=arr[i];
 }
 }
